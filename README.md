@@ -1,4 +1,4 @@
-# bpra-api
+# bpra-blog
 BPRA Cardio System Blog
 
 This is an open blog for BPRA Cardio.
