@@ -1,0 +1,40 @@
+.signIn {
+  display: flex;
+  flex-flow: column;
+  align-self: center;
+  justify-content: center;
+  background-color: #fff;
+  width: 370px;
+  height: 350px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+  border: none;
+  border-radius: 8px;
+  padding: 0 40px;
+  margin-top: 10%;
+}
+
+.signIn > div, .signIn > button {
+  margin: 10px 0;
+}
+
+.signInButton {
+  background-color: #166fe5 !important;
+  color: #fff !important;
+  height: 50px;
+}
+
+.signUpButton {
+  background-color: #42b72a !important;
+  color: #fff !important;
+  height: 50px;
+  width: 300px;
+}
+
+hr {
+  width: 80%;
+}
+
+a {
+  text-decoration: none;
+  margin: 10px auto;
+}
