@@ -1,0 +1,10 @@
+.profileInfo {
+  display: flex;
+  margin: 40px 0;
+}
+
+.profileInfo > div:first-child {
+  height: 180px;
+  width: 180px;
+  margin: 0 30px;
+}
